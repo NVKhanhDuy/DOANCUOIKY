@@ -1,1 +1,1 @@
-US2: Là một người dùng, tôi muốn hệ thống có tính năng đổi mật khẩu.
+US3: Là một người dùng, tôi muốn hệ thống có chức năng tìm kiếm sản phẩm để dễ dàng tra cứu thông tin.
