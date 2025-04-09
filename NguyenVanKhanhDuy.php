@@ -1,1 +1,1 @@
-US4: Là một người dùng, tôi muốn hệ thống gửi mã OTP khi thay đổi thông tin quan trọng để xác minh.
+US5: Là một người dùng, tôi muốn hệ thống cho phép xem lịch sử giao dịch để kiểm soát chi tiêu.
