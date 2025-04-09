@@ -1,1 +1,1 @@
-US1: Là một người dùng, tôi muốn hệ thống cho phép cập nhật thông tin cá nhân.
+US2: Là một người dùng, tôi muốn hệ thống có tính năng đổi mật khẩu.
