@@ -1,1 +1,2 @@
 US1:Là một người dùng,Lưu sản phẩm yêu thích – Thêm sản phẩm vào danh sách yêu thích để mua sau.
+US2:Là một người dùng,Chế độ tối/ sáng – Tùy chỉnh giao diện trang web để phù hợp với môi trường sử dụng.
